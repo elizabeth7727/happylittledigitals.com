@@ -1,0 +1,42 @@
+[
+ {
+  "hobby": "Reading",
+  "img": "img/reading-cover.jpg",
+  "url": "https://www.etsy.com/listing/4592047218"
+ },
+ {
+  "hobby": "Kayaking",
+  "img": "img/kayaking-cover.jpg",
+  "url": "https://www.etsy.com/listing/4592056426"
+ },
+ {
+  "hobby": "Knitting",
+  "img": "img/knitting-cover.jpg",
+  "url": "https://www.etsy.com/listing/4591572161"
+ },
+ {
+  "hobby": "Sourdough",
+  "img": "img/sourdough-cover.jpg",
+  "url": "https://www.etsy.com/listing/4592057020"
+ },
+ {
+  "hobby": "Apple Picking",
+  "img": "img/apple-picking-cover.jpg",
+  "url": "https://www.etsy.com/listing/4592040999"
+ },
+ {
+  "hobby": "Hiking",
+  "img": "img/hiking-cover.jpg",
+  "url": "https://www.etsy.com/listing/4591569117"
+ },
+ {
+  "hobby": "Candle Making",
+  "img": "img/candle-making-cover.jpg",
+  "url": "https://www.etsy.com/listing/4592055374"
+ },
+ {
+  "hobby": "Photography",
+  "img": "img/photography-cover.jpg",
+  "url": "https://www.etsy.com/listing/4592056794"
+ }
+]
